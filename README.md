@@ -1,0 +1,1 @@
+# https-github.com-Bhayou-Root-Termux-blob-5c6e311c1b31ec590959e5090337d888855798e9-root21.sh
